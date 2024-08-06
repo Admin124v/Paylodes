@@ -39,3 +39,5 @@ inurl:productlist.php?id=;
 inurl:shop_category.php?id=;
 
 inurl:catalog.php?cat=;
+
+about:logins?filter=URL;
